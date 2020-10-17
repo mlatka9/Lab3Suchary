@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Not funny app</string>
+    <string name="joke1">Chuck Norris doesn’t read books. He stares them down until he gets the information he wants.</string>
+    <string name="joke2">Time waits for no man. Unless that man is Chuck Norris.</string>
+    <string name="joke3">Chuck Norris breathes air … five times a day.</string>
+    <string name="gen">Generate</string>
+    <string name="joke4">When God said, “Let there be light!” Chuck said, “Say Please.”</string>
+    <string name="joke5">Chuck Norris has a mug of nails instead of coffee in the morning.</string>
+</resources>

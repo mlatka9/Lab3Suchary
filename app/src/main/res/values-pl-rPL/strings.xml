@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Suchar</string>
+    <string name="joke1">Chuck Norris nie czyta książek. Wpatruje się w nie, aż dostaje informacje, których chce.</string>
+    <string name="joke2">Czas na nikogo nie czeka. Chyba że tym człowiekiem jest Chuck Norris.</string>
+    <string name="joke3">Jeśli przeliterujesz Chuck Norris w Scrabble, wygrywasz. Zawsze.</string>
+    <string name="gen">Generuj</string>
+    <string name="joke5">Chuck Norris pije kubek gwoździ zamiast kawy rano.</string>
+    <string name="joke4">Kiedy Bóg powiedział: „Niech stanie się światłość!” Chuck powiedział: „Powiedz proszę”.</string>
+</resources>
