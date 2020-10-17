@@ -12,7 +12,7 @@
         android:layout_height="267dp"
         android:layout_marginBottom="60dp"
         android:background="@drawable/round_btn"
-        android:onClick="hej"
+        android:onClick="draw"
         android:text="@string/gen"
         android:textColor="#FFFFFF"
         android:textSize="30sp"
